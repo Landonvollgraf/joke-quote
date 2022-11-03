@@ -1,0 +1,8 @@
+#quote-box{
+    border: solid crimson 3px;
+    padding: 20px;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 50px;
+    background-color: purple;
+}
